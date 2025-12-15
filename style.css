@@ -1,0 +1,37 @@
+body {
+	color: white;  /* fn + 0 can let me change between cursors */
+	text-align: center;
+	background-color: mediumseagreen; /* light green background color */
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-size: cover;
+}
+
+h1 {
+	color: goldenrod;
+	font-size: 60px;
+}
+
+#message-el {
+	font-size: 30px;
+	font-family: "Times New Roman", Georgia, serif;
+	font-style: italic;
+	font-weight: bold;
+}
+
+p {
+	font-size: 25px;
+	font-family: sans-serif;
+    font-weight: bold;
+}
+
+button {
+	color: #016f32 ; 
+	background-color: goldenrod;
+	border: none;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 25px;
+	border-radius: 3px;
+	width: 225px;
+}
